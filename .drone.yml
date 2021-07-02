@@ -4,10 +4,9 @@ name: default
 
 platform:
   os: linux
-  arсh: amd64
+  arch: amd64
 
 steps:
-- name: test
+- name: greeting
   commands:
-  - cd ~
-  - ls
+  - echo hello world
