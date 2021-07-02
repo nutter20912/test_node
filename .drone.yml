@@ -9,4 +9,5 @@ platform:
 steps:
 - name: test
   commands:
+  - cd ~
   - ls
