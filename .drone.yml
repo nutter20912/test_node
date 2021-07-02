@@ -5,5 +5,5 @@ name: default
 steps:
 - name: test
   commands:
-    - ls -a
+    - echo asd
 #
