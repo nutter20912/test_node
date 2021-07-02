@@ -9,4 +9,4 @@ platform:
 steps:
 - name: test
   commands:
-    - ls
+  - ls
